@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Canvas\bin\Canvas.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Canvas\bin\Canvas.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Canvas\obj\Debug\Canvas.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Canvas\obj\Debug\Canvas.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Canvas\obj\Debug\Canvas.csprojResolveAssemblyReference.cache

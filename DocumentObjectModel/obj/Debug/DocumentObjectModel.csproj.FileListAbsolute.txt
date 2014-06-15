@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DocumentObjectModel\bin\DocumentObjectModel.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DocumentObjectModel\bin\DocumentObjectModel.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DocumentObjectModel\obj\Debug\DocumentObjectModel.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DocumentObjectModel\obj\Debug\DocumentObjectModel.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DocumentObjectModel\obj\Debug\DocumentObjectModel.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\DocumentObjectModel\bin\DocumentObjectModel.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\DocumentObjectModel\bin\DocumentObjectModel.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\DocumentObjectModel\obj\Debug\DocumentObjectModel.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\DocumentObjectModel\obj\Debug\DocumentObjectModel.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\DocumentObjectModel\obj\Debug\DocumentObjectModel.pdb

@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\jQuery Overview\bin\jQuery Overview.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\jQuery Overview\bin\jQuery Overview.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\jQuery Overview\obj\Debug\jQuery Overview.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\jQuery Overview\obj\Debug\jQuery Overview.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\jQuery Overview\obj\Debug\jQuery Overview.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\jQuery Overview\bin\jQuery Overview.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\jQuery Overview\bin\jQuery Overview.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\jQuery Overview\obj\Debug\jQuery Overview.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\jQuery Overview\obj\Debug\jQuery Overview.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\jQuery Overview\obj\Debug\jQuery Overview.pdb

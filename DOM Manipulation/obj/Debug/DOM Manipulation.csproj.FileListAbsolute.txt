@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DOM Manipulation\bin\DOM Manipulation.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DOM Manipulation\bin\DOM Manipulation.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DOM Manipulation\obj\Debug\DOM Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DOM Manipulation\obj\Debug\DOM Manipulation.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\DOM Manipulation\obj\Debug\DOM Manipulation.pdb

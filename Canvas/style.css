@@ -1,0 +1,13 @@
+﻿body {
+    background: #eee;
+}
+
+#canvas-prob2 {
+    margin-top: 35px;
+    background-color: #79f7e4;
+}
+
+canvas {
+    display: block;
+    border: 3px outset #064cbb;
+}

@@ -1,0 +1,4 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\KineticJS\bin\KineticJS.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\KineticJS\bin\KineticJS.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\KineticJS\obj\Debug\KineticJS.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\KineticJS\obj\Debug\KineticJS.pdb
