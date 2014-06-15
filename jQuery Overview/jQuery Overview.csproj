@@ -57,15 +57,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\2014-AMV01.jpg" />
-    <Content Include="images\2014-AMV02.jpg" />
-    <Content Include="images\AM-DB9.jpg" />
-    <Content Include="images\LM-MURC.jpg" />
-    <Content Include="index.html" />
-    <Content Include="scripts\jquery-2.1.1.min.js" />
-    <Content Include="scripts\slider.js" />
-    <Content Include="scripts\slider-control.js" />
-    <Content Include="style.css" />
+    <Content Include="Problem 1\images\2014-AMV01.jpg" />
+    <Content Include="Problem 1\images\2014-AMV02.jpg" />
+    <Content Include="Problem 1\images\AM-DB9.jpg" />
+    <Content Include="Problem 1\images\LM-MURC.jpg" />
+    <Content Include="Problem 1\index.html" />
+    <Content Include="Problem 1\scripts\jquery-2.1.1.min.js" />
+    <Content Include="Problem 1\scripts\slider.js" />
+    <Content Include="Problem 1\scripts\slider-control.js" />
+    <Content Include="Problem 1\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -78,6 +78,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Problem 2\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

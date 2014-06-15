@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>jQuery Overview - Prob 1: Slider</title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="slider">
+        <ul class="slides-container">
+            <li>
+                <img class="slide" width="600" height="300" src="images/2014-AMV01.jpg" alt="Aston Martin Vanquish" />
+            </li>
+            <li>
+                <img class="slide" width="600" height="300" src="images/2014-AMV02.jpg" alt="Aston Martin Vanquish" />
+            </li>
+            <li>
+                <img class="slide" width="600" height="300" src="images/AM-DB9.jpg" alt="Aston Martin DB9" />
+            </li>
+            <li>
+                <img class="slide" width="600" height="300" src="images/LM-MURC.jpg" alt="Lamborghini Murcielago RGT" />
+            </li>
+        </ul>
+    </div>
+
+    <div class="slider-nav">
+        <button class="slider-nav-button" data-id="prev">Prev</button>
+        <button class="slider-nav-button" data-id="slideshow">Slideshow (OFF)</button>
+        <button class="slider-nav-button" data-id="next">Next</button>
+    </div>
+
+    <script src="scripts/jquery-2.1.1.min.js"></script>
+    <script src="scripts/slider.js"></script>
+    <script src="scripts/slider-control.js"></script>
+</body>
+</html>
