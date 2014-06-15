@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQuery Overview", "jQuery O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQuery Plugins", "jQuery Plugins\jQuery Plugins.csproj", "{6046CC17-10B8-4E62-9EFF-818CA10D66DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlebars", "Handlebars\Handlebars.csproj", "{3CF23945-A1E5-4A3A-BF35-C6E2C0779839}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{6046CC17-10B8-4E62-9EFF-818CA10D66DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6046CC17-10B8-4E62-9EFF-818CA10D66DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6046CC17-10B8-4E62-9EFF-818CA10D66DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF23945-A1E5-4A3A-BF35-C6E2C0779839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF23945-A1E5-4A3A-BF35-C6E2C0779839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF23945-A1E5-4A3A-BF35-C6E2C0779839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF23945-A1E5-4A3A-BF35-C6E2C0779839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
