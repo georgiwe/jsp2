@@ -42,6 +42,7 @@ div {
 div.last-inserted {
     background-color: #a41111;
     text-align: center;
+    line-height: 45px;
 }
 
 div.last-inserted:after {

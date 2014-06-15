@@ -69,12 +69,21 @@
     <Content Include="Problem 2\index.html" />
     <Content Include="Problem 2\scripts\script.js" />
     <Content Include="Problem 2\style\style.css" />
+    <Content Include="Problem 3\index.html" />
+    <Content Include="Problem 3\scrpit.js" />
+    <Content Include="Problem 3\style.css">
+      <DependentUpon>style.less</DependentUpon>
+    </Content>
+    <Content Include="Problem 3\style.min.css">
+      <DependentUpon>style.less</DependentUpon>
+    </Content>
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Problem 3\style.less" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
