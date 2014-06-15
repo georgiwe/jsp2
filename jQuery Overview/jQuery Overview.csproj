@@ -66,6 +66,9 @@
     <Content Include="Problem 1\scripts\slider.js" />
     <Content Include="Problem 1\scripts\slider-control.js" />
     <Content Include="Problem 1\style.css" />
+    <Content Include="Problem 2\index.html" />
+    <Content Include="Problem 2\scripts\script.js" />
+    <Content Include="Problem 2\style\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -79,9 +82,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Problem 2\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
