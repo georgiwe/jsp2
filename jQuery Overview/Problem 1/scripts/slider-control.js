@@ -10,7 +10,7 @@
     var $slideshowButton = $('button[data-id=slideshow]');
     var slideShowOnText = 'Slideshow (ON)';
     var slideShowOffText = 'Slideshow (OFF)';
-    var slideshowInterval = 1000;
+    var slideshowInterval = 5000;
 
     $sliderNavBar.on('click', '.slider-nav-button', function () {
         var clickedButtId = $(this).attr('data-id');
