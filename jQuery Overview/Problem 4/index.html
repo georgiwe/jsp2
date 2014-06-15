@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>jQuery Overview - Prob 4</title>
+    <style>
+        input {
+            padding: 0;
+            margin: 0;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <label>Pick a color for the background: </label>
+    <input type="color" value="#ffffff"/>
+
+    <!--if you dont have internet - you need to find jQuery from somewhere else-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+        var $body = $('body');
+        var $input = $('input');
+
+        $input.on('change', function () {
+            $body.css('background-color', $input.val());
+        })
+    </script>
+</body>
+</html>

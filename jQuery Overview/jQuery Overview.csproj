@@ -77,6 +77,7 @@
     <Content Include="Problem 3\style.min.css">
       <DependentUpon>style.less</DependentUpon>
     </Content>
+    <Content Include="Problem 4\index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
