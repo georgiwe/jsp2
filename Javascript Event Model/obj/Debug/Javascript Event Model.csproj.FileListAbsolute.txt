@@ -2,3 +2,7 @@ C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript
 C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Javascript Event Model\bin\Javascript Event Model.pdb
 C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Javascript Event Model\obj\Debug\Javascript Event Model.dll
 C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\JavaScript Part 2\JavaScript Part 2\Javascript Event Model\obj\Debug\Javascript Event Model.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\Javascript Event Model\bin\Javascript Event Model.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\Javascript Event Model\bin\Javascript Event Model.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\Javascript Event Model\obj\Debug\Javascript Event Model.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\Telerik Academy\jsp2\Javascript Event Model\obj\Debug\Javascript Event Model.pdb

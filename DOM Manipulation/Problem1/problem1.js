@@ -2,7 +2,7 @@
 
     var fragment = document.createDocumentFragment();
 
-    for (var i = 0; i < 20; i++) {
+    for (var i = 0; i < 10000; i++) {
         var rndDiv = createRandomDiv();
         fragment.appendChild(rndDiv);
     }
